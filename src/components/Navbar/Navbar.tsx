@@ -1,6 +1,5 @@
 import styles from "./Navbar.module.css";
 import { useState } from "react";
-import { getImageUrl } from "../../utils";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -17,7 +16,6 @@ const Navbar = () => {
               ? "https://static-00.iconduck.com/assets.00/close-icon-2048x2047-k8f8qv8h.png"
               : "https://icons.veryicon.com/png/o/miscellaneous/linear-icon-45/hamburger-menu-4.png"
           }
-          alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}
         ></img>
         <ul
