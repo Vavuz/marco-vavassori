@@ -34,8 +34,9 @@
 }
 
 .menuBtn {
-    width: 5%;
-    height: 5%;
+    display: none;
+    width: 40px;
+    height: 40px;
 }
 
 @media screen and (max-width: 830px) {
