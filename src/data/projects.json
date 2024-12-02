@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Jawbone",
+        "imageSrc": "projects/project.jpg",
+        "description": "A manual dialogue-analysis too, my Honours project",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    },
+    {
+        "title": "Clever Mobile App",
+        "imageSrc": "projects/project.jpg",
+        "description": "A mobile app to manage your recurring expenses",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    },
+    {
+        "title": "Vocabulearn",
+        "imageSrc": "projects/project.jpg",
+        "description": "Web application to practice using words you just learnt",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    },
+    {
+        "title": "WishListen",
+        "imageSrc": "projects/project.jpg",
+        "description": "Mobile application to keep track of the music you want to listen to",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    },
+    {
+        "title": "Music Teacher",
+        "imageSrc": "projects/project.jpg",
+        "description": "Website for a music teacher",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    },
+    {
+        "title": "Sudoku",
+        "imageSrc": "projects/project.jpg",
+        "description": "Sudoku game",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    },
+    {
+        "title": "Living Grimoire",
+        "imageSrc": "projects/project.jpg",
+        "description": "Translation of Java code into Python for a Fiverr customer",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "",
+        "source": "https://github.com/yotamarker/LivinGrimoireCorePython"
+    },
+    {
+        "title": "Maze solver",
+        "imageSrc": "projects/project.jpg",
+        "description": "C# program that find the shortest route using Dijkstra",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    },
+    {
+        "title": "KwikMedical",
+        "imageSrc": "projects/project.jpg",
+        "description": "A distributed system for hospitals made using microservices",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    },
+    {
+        "title": "Portfolio website",
+        "imageSrc": "projects/project.jpg",
+        "description": "This cool looking portfolio website",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    },
+    {
+        "title": "S&P500 check",
+        "imageSrc": "projects/project.jpg",
+        "description": "Simple web scraping app that constantly check's for the S&P500 values",
+        "skills": ["Python", "Typhon", "Phyton"],
+        "demo": "https://github.com/Vavuz?tab=repositories",
+        "source": "https://github.com/Vavuz?tab=repositories"
+    }
+]

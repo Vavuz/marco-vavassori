@@ -1,4 +1,3 @@
-import profile from "../../assets/pp.png";
 import styles from "./Hero.module.css";
 
 const Hero = () => {
@@ -17,7 +16,7 @@ const Hero = () => {
           Contact me
         </a>
       </div>
-      <img src={profile} className={styles.heroImg}></img>
+      <img src="/assets/pp.png" className={styles.heroImg}></img>
       <div className={styles.topBlur}></div>
       <div className={styles.bottomBlur}></div>
     </section>
