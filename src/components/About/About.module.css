@@ -67,7 +67,7 @@
     margin-right: 10%;
 }
 
-@media screen and (max_width: 830px) {
+@media screen and (max-width: 830px) {
     .container {
         background-color: transparent;
         padding-left: 0;

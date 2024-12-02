@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Demonstrator",
+    "organisation": "Edinburgh Napier University",
+    "startDate": "Sept, 2021",
+    "endDate": "Dec, 2024",
+    "experiences": [
+      "Helped students in the 'Software Development' module",
+      "Helped students in the 'Mathematics for SOftware Engineering' module",
+      "Helped students in the 'Data Analytics' module"
+    ],
+    "imageSrc": "https://seekvectors.com/files/download/Edinburgh%20Napier%20University-04.png"
+  },
+  {
+    "role": "Software Engineering Intern",
+    "organisation": "CARET",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "experiences": [
+      "Fixing and improving HotDocs, a document automation tool",
+      "Used HTML, CSS, TypeScript for front end",
+      "Used C# .NET for backend",
+      "Gained experience in Jira, Postman, Entity framework, SQL and ChatGPT"
+    ],
+    "imageSrc": "https://media.licdn.com/dms/image/v2/C4E0BAQGt0gkzvCgZOw/company-logo_200_200/company-logo_200_200/0/1675262009396/get_caret_logo?e=2147483647&v=beta&t=WbBH2ndG9qAIlypRwDPS9V4B2xyZDQAlwjDt4biDgIU"
+  },
+  {
+    "role": "Freelancer",
+    "organisation": "Fiverr",
+    "startDate": "Nov, 2021",
+    "endDate": "Jan, 2023",
+    "experiences": [
+      "Helped people with C# and Java",
+      "Translated a big project from Java to Python"
+    ],
+    "imageSrc": "https://seeklogo.com/images/F/fiverr-logo-2A4DB517AE-seeklogo.com.png"
+  }
+]

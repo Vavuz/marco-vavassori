@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"
+  },
+  {
+    "title": "Cytoscape",
+    "imageSrc": "https://raw.githubusercontent.com/cytoscape/cytoscape.js/unstable/documentation/img/cytoscape-logo.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "https://img.icons8.com/color/512/flutter.png"
+  },
+  {
+    "title": ".NET",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"
+  }
+]
