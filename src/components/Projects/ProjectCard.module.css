@@ -8,6 +8,7 @@
     box-shadow: 0 15px 15px 0 #235744;
     padding: 18px 25px;
     max-width: 345px;
+    height: 590px;
 }
 
 .image {
@@ -23,6 +24,7 @@
     margin-top: 5px;
     font-size: 25px;
     font-weight: 400;
+    flex-grow: 1;
 }
 
 .skills {
