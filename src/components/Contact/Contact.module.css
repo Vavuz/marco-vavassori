@@ -14,7 +14,7 @@
     justify-content: center;
 }
 
-h1 {
+.content h1 {
     margin-right: 100px;
 }
 
@@ -27,4 +27,10 @@ h1 {
     filter: grayscale(100%);
     margin-right: 20px;
     align-self: flex-end;
+}
+
+@media screen and (max-width: 830px) {
+    .content h1 {
+        margin-left: 70px;
+    }
 }

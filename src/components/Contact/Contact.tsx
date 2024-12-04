@@ -45,7 +45,7 @@ const Contact = () => {
           ></img>
         </a>
       </div>
-      <p>@2024 Marco Vavassori. All rights reserved.</p>
+      <p>©2024 Marco Vavassori. All rights reserved.</p>
     </section>
   );
 };
