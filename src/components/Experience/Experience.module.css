@@ -14,6 +14,10 @@
     letter-spacing: 1.75px;
     text-transform: uppercase;
     margin-bottom: 40px;
+    text-shadow: -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
 }
 
 .content {
@@ -44,12 +48,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 120px;
-    height: 120px;
+    width: 150px;
+    height: 150px;
 }
 
 .skillImageContainer img {
-    width: 75px;
+    width: 90px;
 }
 
 .skill p {

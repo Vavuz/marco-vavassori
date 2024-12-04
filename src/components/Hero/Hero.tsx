@@ -7,7 +7,7 @@ const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Marco</h1>
         <p className={styles.description}>
           Hi there! I'm Marco Vavassori, a recent graduate with a Bachelor of
-          Engineering in Software Engineering. I'm Italian, and when I'm not
+          Engineering in Software Engineering. When I'm not
           coding, you can find me hitting the gym or shooting hoops on the
           basketball court to keep in shape. I love collaborating on cool
           projects and bringing ideas to life!

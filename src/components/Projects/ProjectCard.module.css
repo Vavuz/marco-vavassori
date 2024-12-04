@@ -4,11 +4,11 @@
     display: flex;
     flex-direction: column;
     border-radius: 10px;
-    background: linear-gradient(180deg, #235432 0%, #535333 100%);
+    background: linear-gradient(180deg, #ffc8ff 0%, #4734f1 100%);
     box-shadow: 0 15px 15px 0 #235744;
     padding: 18px 25px;
-    max-width: 345px;
-    height: 590px;
+    max-width: 450px;
+    height: 610px;
 }
 
 .image {
@@ -52,14 +52,34 @@
     justify-content: space-around;
 }
 
+/* From Uiverse.io by satyamchaudharydev */ 
 .link {
     text-decoration: none;
-    color: var(--color-text);
-    font-size: 30px;
-    font-weight: 600;
-    border-radius: 100px;
-    background: var(--color-primary);
-    padding: 1px 22px;
+    text-align: center;
+    --bg: #5993ff;
+    --text-color: var(--text-color);
+    position: relative;
+    width: 170px;
+    border: none;
+    background: var(--bg);
+    color: var(--text-color);
+    padding: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: 0.2s;
+    border-radius: 15px;
+    opacity: 0.8;
+    letter-spacing: 1px;
+    box-shadow: #3f68b3 0px 7px 2px, #000 0px 8px 5px;
+}
+
+.link:hover {
+    opacity: 1;
+}
+
+.link:active {
+    top: 4px;
+    box-shadow: #3f68b3 0px 3px 2px,#000 0px 3px 5px;
 }
 
 .disabledLink {

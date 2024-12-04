@@ -2,89 +2,89 @@
     {
         "title": "Jawbone",
         "imageSrc": "projects/project.jpg",
-        "description": "A manual dialogue-analysis too, my Honours project",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
+        "description": "Prototype of a manual dialogue-analysis tool, my Honours project.",
+        "skills": ["Angular", "Cytoscape", "GHPages"],
+        "demo": "https://vavuz.github.io/Jawbone/",
         "source": "https://github.com/Vavuz?tab=repositories"
     },
     {
         "title": "Clever Mobile App",
         "imageSrc": "projects/project.jpg",
-        "description": "A mobile app to manage your recurring expenses",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
-        "source": "https://github.com/Vavuz?tab=repositories"
+        "description": "A mobile app to manage your recurring expenses.",
+        "skills": ["Kotlin", "Android Studio"],
+        "demo": "",
+        "source": "https://github.com/Vavuz/Clever"
     },
     {
         "title": "Vocabulearn",
         "imageSrc": "projects/project.jpg",
-        "description": "Web application to practice using words you just learnt",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
-        "source": "https://github.com/Vavuz?tab=repositories"
+        "description": "Web application to practice using words you just learnt.",
+        "skills": ["Angular", "Firebase", "HTML", "CSS"],
+        "demo": "",
+        "source": "https://github.com/Vavuz/Vocabulearn"
     },
     {
         "title": "WishListen",
         "imageSrc": "projects/project.jpg",
-        "description": "Mobile application to keep track of the music you want to listen to",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
-        "source": "https://github.com/Vavuz?tab=repositories"
+        "description": "Mobile application to keep track of the music you want to listen to.",
+        "skills": ["Flutter", "Railway"],
+        "demo": "",
+        "source": ""
     },
     {
         "title": "Music Teacher",
         "imageSrc": "projects/project.jpg",
-        "description": "Website for a music teacher",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
-        "source": "https://github.com/Vavuz?tab=repositories"
+        "description": "A website for a music teacher.",
+        "skills": ["Flask", "CSS", "Railway"],
+        "demo": "https://www.mikesmusiclessons.co.uk/",
+        "source": ""
     },
     {
         "title": "Sudoku",
         "imageSrc": "projects/project.jpg",
-        "description": "Sudoku game",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
-        "source": "https://github.com/Vavuz?tab=repositories"
+        "description": "A console sudoku game with saving and replaying features.",
+        "skills": ["Python"],
+        "demo": "https://youtu.be/QCf04x0co7s",
+        "source": "https://github.com/Vavuz/Sudoku"
     },
     {
         "title": "Living Grimoire",
         "imageSrc": "projects/project.jpg",
-        "description": "Translation of Java code into Python for a Fiverr customer",
-        "skills": ["Python", "Typhon", "Phyton"],
+        "description": "Translation of a Java project into Python for a Fiverr customer.",
+        "skills": ["Java", "Python"],
         "demo": "",
         "source": "https://github.com/yotamarker/LivinGrimoireCorePython"
     },
     {
         "title": "Maze solver",
         "imageSrc": "projects/project.jpg",
-        "description": "C# program that find the shortest route using Dijkstra",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
-        "source": "https://github.com/Vavuz?tab=repositories"
+        "description": "A C# program that find the shortest route in a maze using Dijkstra.",
+        "skills": ["C#"],
+        "demo": "",
+        "source": "https://github.com/Vavuz/Maze-Solver"
     },
     {
         "title": "KwikMedical",
         "imageSrc": "projects/project.jpg",
-        "description": "A distributed system for hospitals made using microservices",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
-        "source": "https://github.com/Vavuz?tab=repositories"
+        "description": "A distributed system for hospitals made using microservices.",
+        "skills": ["Python", "Docker"],
+        "demo": "",
+        "source": "https://github.com/Vavuz/KwikMedical"
     },
     {
         "title": "Portfolio website",
         "imageSrc": "projects/project.jpg",
-        "description": "This cool looking portfolio website",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
-        "source": "https://github.com/Vavuz?tab=repositories"
+        "description": "This cool looking portfolio website you are looking at.",
+        "skills": ["React", "HTML", "CSS"],
+        "demo": "",
+        "source": "https://github.com/Vavuz/MarcoVavassori"
     },
     {
         "title": "S&P500 check",
         "imageSrc": "projects/project.jpg",
-        "description": "Simple web scraping app that constantly check's for the S&P500 values",
-        "skills": ["Python", "Typhon", "Phyton"],
-        "demo": "https://github.com/Vavuz?tab=repositories",
-        "source": "https://github.com/Vavuz?tab=repositories"
+        "description": "A simple web scraping app that checks for the S&P500 value.",
+        "skills": ["Python", "BeautifulSoup"],
+        "demo": "",
+        "source": "https://github.com/Vavuz/SP500-checker"
     }
 ]

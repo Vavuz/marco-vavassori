@@ -8,24 +8,24 @@ const About = () => {
         <img src="https://static.vecteezy.com/system/resources/previews/022/483/476/non_2x/patient-3d-student-boy-with-problem-solving-skills-on-white-background-transparent-background-free-png.png" className={styles.aboutImage}></img>
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src="https://cdn-icons-png.flaticon.com/512/5339/5339184.png" className={styles.talentImage}></img>
+            <img src="https://cdn-icons-png.flaticon.com/512/6674/6674591.png" className={styles.talentImage}></img>
             <div className={styles.aboutItemText}>
               <h3>Full Stack Developer</h3>
-              <p>Aoooo sono un software develper</p>
+              <p>I'm a full-stack developer skilled in <b>Angular</b> for front-end interfaces and <b>Flask</b> for back-end services, with additional experience in <b>C# .NET</b> for versatile, scalable solutions.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="https://cdn-icons-png.flaticon.com/512/5339/5339184.png" className={styles.talentImage}></img>
+            <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" className={styles.talentImage}></img>
             <div className={styles.aboutItemText}>
               <h3>Data Analyst</h3>
-              <p>Aoooo sono un software develper</p>
+              <p>I have a strong passion for data analysis. I work confidently with <b>Weka</b> and <b>OpenRefine</b> for cleaning and visualising datasets. In Python, I leverage <b>Pandas</b> for data manipulation and <b>Matplotlib</b> to create impactful visualisations, delivering clarity and actionable results.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="https://cdn-icons-png.flaticon.com/512/5339/5339184.png" className={styles.talentImage}></img>
+            <img src="https://wallpapers.com/images/featured/flag-of-italy-png-q0os1hqvcabunr4v.jpg" className={styles.talentImage}></img>
             <div className={styles.aboutItemText}>
-              <h3>Professional Sleeper</h3>
-              <p>Aoooo sono un software develper</p>
+              <h3>Bilingual</h3>
+              <p>If you are fancying a conversation in <b>Italian</b> I can definitely help you with that, before coming to the UK in 2018 that's where I was.</p>
             </div>
           </li>
         </ul>

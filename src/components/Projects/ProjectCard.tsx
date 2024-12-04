@@ -25,7 +25,13 @@ const ProjectCard = ({ project }: any) => {
         >
           Demo
         </a>
-        <a href={project.source} target="_blank" className={styles.link}>
+        <a
+          href={project.source}
+          target="_blank"
+          className={`${styles.link} ${
+            project.source.length === 0 && styles.disabledLink
+          }`}
+        >
           Source
         </a>
       </div>

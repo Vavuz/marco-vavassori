@@ -1,10 +1,16 @@
 @import "../../vars.css";
 
-.content {
+.container {
     color: var(--color-text);
     font-family: var(--font-robot);
     background-color: var(--color-secondary);
-    background: linear-gradient(360deg, rgba(39, 130, 221, 0), rgba(200, 67, 23, 98));
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.content {
     margin-top: 40px;
     padding-top: 100px;
     padding-bottom: 100px;

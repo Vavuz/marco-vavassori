@@ -2,10 +2,10 @@
 
 .container{
     position: relative;
-    background-color: rgba(12, 12, 12, 0.6);
+    background-color: rgba(12, 12, 12, 0.5);
     border-radius: 15px;
-    padding: 70px;
-    margin-top: 130px;
+    padding: 70px 20px 0px 70px;
+    margin-top: 120px;
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
@@ -17,6 +17,10 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+    text-shadow: -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;
 }
 
 .content{
@@ -33,6 +37,7 @@
     color: var(--color-text);
     display: flex;
     flex-direction: column;
+    margin-left: auto;
     gap: 50px
 }
 
