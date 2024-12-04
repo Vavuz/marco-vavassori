@@ -1,0 +1,30 @@
+@import "../../vars.css";
+
+.content {
+    color: var(--color-text);
+    font-family: var(--font-robot);
+    background-color: var(--color-secondary);
+    background: linear-gradient(360deg, rgba(39, 130, 221, 0), rgba(200, 67, 23, 98));
+    margin-top: 40px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    margin-right: 100px;
+}
+
+.container p {
+    text-align: center;
+}
+
+.image {
+    width: 40px;
+    filter: grayscale(100%);
+    margin-right: 20px;
+    align-self: flex-end;
+}
