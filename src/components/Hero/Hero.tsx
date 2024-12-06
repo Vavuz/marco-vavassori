@@ -16,7 +16,7 @@ const Hero = () => {
           Contact me
         </a>
       </div>
-      <img src="/marco-vavassori/assets/pp.png" className={styles.heroImg}></img>
+      <img src={`${import.meta.env.BASE_URL}assets/pp.png`} className={styles.heroImg}></img>
       <div className={styles.topBlur}></div>
       <div className={styles.bottomBlur}></div>
     </section>
