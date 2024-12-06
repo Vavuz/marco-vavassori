@@ -1,4 +1,5 @@
 import styles from "./Hero.module.css";
+import profileImage from "/assets/pp.png";
 
 const Hero = () => {
   return (
@@ -16,7 +17,7 @@ const Hero = () => {
           Contact me
         </a>
       </div>
-      <img src={`${import.meta.env.BASE_URL}assets/pp.png`} className={styles.heroImg}></img>
+      <img src={profileImage} className={styles.heroImg}></img>
       <div className={styles.topBlur}></div>
       <div className={styles.bottomBlur}></div>
     </section>
