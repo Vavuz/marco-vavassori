@@ -2,7 +2,7 @@
   "name": "marco-vavassori",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://vavuz.github.io/MarcoVavassori",
+  "homepage": "https://vavuz.github.io/marco-vavassori",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
