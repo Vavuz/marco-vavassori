@@ -115,3 +115,31 @@
     cursor: not-allowed;
     opacity: 0.4;
 }
+
+@media screen and (max-width: 830px) {
+    .container {
+        height: 500px;
+        width: 100%;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+
+    .description {
+        font-size: 18px;
+    }
+
+    .skills {
+        gap: 8px;
+    }
+
+    .skill {
+        font-size: 18px;
+        padding: 3px 15px;
+    }
+
+    .links {
+        gap: 10px;
+    }
+}

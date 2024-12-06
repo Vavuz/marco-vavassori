@@ -33,15 +33,47 @@
     text-align: center;
 }
 
+.contacts {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
 .image {
     width: 40px;
     filter: grayscale(100%);
-    margin-right: 20px;
     align-self: flex-end;
 }
 
 @media screen and (max-width: 830px) {
+    .content {
+        display: flex;
+        flex-direction: column;
+        padding-top: 30px;
+        padding-bottom: 50px;
+        align-items: center;
+    }
+
+    .contacts {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+    }
+
     .content h1 {
-        margin-left: 70px;
+        margin: 0;
+        text-align: center;
+        padding-bottom: 20px;
+        font-size: 22px;
+    }
+
+    .image {
+        width: 35px;
+    }
+
+    .container p {
+        font-size: 14px;
     }
 }

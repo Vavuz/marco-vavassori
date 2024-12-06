@@ -119,4 +119,16 @@
     .content {
         align-items: center;
     }
+
+    .heroImg {
+        padding-bottom: 50px;
+    }
+
+    .title {
+        font-size: 50px;
+    }
+
+    .description {
+        font-size: 20px;
+    }
 }
