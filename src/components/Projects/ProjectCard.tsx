@@ -16,24 +16,38 @@ const ProjectCard = ({ project }: any) => {
         })}
       </ul>
       <div className={styles.links}>
-        <a
-          href={project.demo}
-          target="_blank"
-          className={`${styles.link} ${
-            project.demo.length === 0 && styles.disabledLink
+        <div
+          className={`${styles.linkWrapper} ${
+            project.demo.length === 0 ? styles.disabled : ""
           }`}
         >
-          Demo
-        </a>
-        <a
-          href={project.source}
-          target="_blank"
-          className={`${styles.link} ${
-            project.source.length === 0 && styles.disabledLink
+          <a
+            href={project.demo.length === 0 ? undefined : project.demo}
+            target={project.demo.length === 0 ? undefined : "_blank"}
+            className={`${styles.link} ${
+              project.demo.length === 0 ? styles.pointerEventsNone : ""
+            }`}
+            onClick={(e) => project.demo.length === 0 && e.preventDefault()}
+          >
+            Demo
+          </a>
+        </div>
+        <div
+          className={`${styles.linkWrapper} ${
+            project.source.length === 0 ? styles.disabled : ""
           }`}
         >
-          Source
-        </a>
+          <a
+            href={project.source.length === 0 ? undefined : project.source}
+            target={project.source.length === 0 ? undefined : "_blank"}
+            className={`${styles.link} ${
+              project.source.length === 0 ? styles.pointerEventsNone : ""
+            }`}
+            onClick={(e) => project.source.length === 0 && e.preventDefault()}
+          >
+            Source
+          </a>
+        </div>
       </div>
     </div>
   );
