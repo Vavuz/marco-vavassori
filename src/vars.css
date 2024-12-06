@@ -4,7 +4,14 @@
     --color-secondary: #2b5075;
     --color-dark: #d28974;
     --color-bg: #8a4d73;
-    --button-bg: #5993ff;
-    --button-shadow: #3f68b3;
+    --color-accent: #ffc8ff;
+    --color-gradient-start: rgba(255, 200, 255, 0.5);
+    --color-gradient-end: rgba(71, 52, 241, 0.7);
+    --color-shadow: #235744;
+    --color-button-bg: #5993ff;
+    --color-button-shadow: #3f68b3;
+    --color-hover: #234432;
+    --color-semitransparent-dark: rgba(12, 12, 12, 0.5);
+    --color-semitransparent-hover: rgba(25, 55, 109, 0.7);
     --font-roboto: "Roboto";
 }

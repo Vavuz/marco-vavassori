@@ -13,8 +13,8 @@ const Navbar = () => {
           className={styles.menuBtn}
           src={
             menuOpen
-              ? "https://static-00.iconduck.com/assets.00/close-icon-2048x2047-k8f8qv8h.png"
-              : "https://icons.veryicon.com/png/o/miscellaneous/linear-icon-45/hamburger-menu-4.png"
+              ? "/assets/closed.png"
+              : "/assets/open.png"
           }
           onClick={() => setMenuOpen(!menuOpen)}
         ></img>

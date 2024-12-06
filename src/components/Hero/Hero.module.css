@@ -24,7 +24,7 @@
     font-weight: 900;
     margin-bottom: 30px;
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 50%, rgba(255, 255, 255, 0) 160%);
+    background: linear-gradient(90deg, var(--color-text) 50%, var(--color-dark) 160%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
@@ -37,8 +37,8 @@
 
 .contactBtn {
     text-decoration: none;
-    --bg: #5993ff;
-    --text-color: var(--text-color);
+    --bg: var(--color-button-bg);
+    --text-color: var(--color-text);
     position: relative;
     text-align: center;
     width: 150px;
@@ -52,7 +52,7 @@
     border-radius: 15px;
     opacity: 0.8;
     letter-spacing: 1px;
-    box-shadow: #3f68b3 0px 7px 2px, #000 0px 8px 5px;
+    box-shadow: var(--color-button-shadow) 0px 7px 2px, #000 0px 8px 5px;
 }
 
 .contactBtn:hover {
@@ -61,7 +61,7 @@
 
 .contactBtn:active {
     top: 4px;
-    box-shadow: #3f68b3 0px 3px 2px,#000 0px 3px 5px;
+    box-shadow: var(--color-button-shadow) 0px 3px 2px, #000 0px 3px 5px;
 }
 
 .heroImg {
@@ -93,7 +93,7 @@
     top: -130px;
     left: -10vw;
     border-radius: 770px;
-    background: rgba(25, 55, 109, 0.7);
+    background: var(--color-semitransparent-hover);
     filter: blur(100px);
     z-index: 0;
 }
@@ -106,7 +106,7 @@
     top: 250px;
     right: -25vw;
     border: 760px;
-    background: rgba(25, 55, 109, 0.7);
+    background: var(--color-semitransparent-hover);
     filter: blur(100px);
     z-index: 0;
 }

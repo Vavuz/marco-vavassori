@@ -2,12 +2,17 @@
 
 .container {
     color: var(--color-text);
-    font-family: var(--font-robot);
-    background-color: var(--color-secondary);
+    font-family: var(--font-roboto);
+    background: linear-gradient(
+        180deg,
+        var(--color-secondary) 0%,
+        var(--color-dark) 50%,
+        var(--color-accent) 100%
+    );
+    margin-top: 80px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin-top: 80px;
 }
 
 .content {
