@@ -14,7 +14,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("./assets/background.jpg");
+    background-image: url("/marco-vavassori/assets/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     filter: blur(8px);
