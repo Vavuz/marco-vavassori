@@ -1,6 +1,6 @@
 import styles from "./Navbar.module.css";
-import openImage from "/assets/open.png";
-import closedImage from "/assets/closed.png";
+import openImage from "./assets/open.png";
+import closedImage from "./assets/closed.png";
 import { useState } from "react";
 
 const Navbar = () => {
