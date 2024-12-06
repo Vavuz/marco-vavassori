@@ -16,7 +16,7 @@ const Hero = () => {
           Contact me
         </a>
       </div>
-      <img src="/assets/pp.png" className={styles.heroImg}></img>
+      <img src="/marco-vavassori/assets/pp.png" className={styles.heroImg}></img>
       <div className={styles.topBlur}></div>
       <div className={styles.bottomBlur}></div>
     </section>
