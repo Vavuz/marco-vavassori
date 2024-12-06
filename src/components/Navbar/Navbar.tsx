@@ -13,8 +13,8 @@ const Navbar = () => {
           className={styles.menuBtn}
           src={
             menuOpen
-              ? "/assets/closed.png"
-              : "/assets/open.png"
+              ? "/marco-vavassori/assets/closed.png"
+              : "/marco-vavassori/assets/open.png"
           }
           onClick={() => setMenuOpen(!menuOpen)}
         ></img>
