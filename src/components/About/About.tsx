@@ -11,7 +11,7 @@ const About = () => {
             <img src="https://cdn-icons-png.flaticon.com/512/6674/6674591.png" className={styles.talentImage}></img>
             <div className={styles.aboutItemText}>
               <h3>Full Stack Developer</h3>
-              <p>I'm a full-stack developer skilled in <b>Angular</b> and <b>React</b> for front-end interfaces and <b>Flask</b> for back-end services, with some familiarity in <b>C# .NET</b> for scalable solutions.</p>
+              <p>I'm a full-stack developer skilled in <b>Angular</b> and <b>React</b> for front-end interfaces and <b>Flask</b> and <b>Node.js</b> for back-end services, with some familiarity in <b>C# .NET</b> for scalable solutions.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
