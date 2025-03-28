@@ -13,6 +13,14 @@
         "description": "Mobile application to keep track of the music you want to listen to.",
         "skills": ["Flutter", "Railway"],
         "demo": "",
+        "source": "https://github.com/Vavuz/WishListen"
+    },
+    {
+        "title": "Music Teacher",
+        "imageSrc": "projects/music.jpg",
+        "description": "A website for a music teacher.",
+        "skills": ["Flask", "CSS", "Railway"],
+        "demo": "https://www.mikesmusiclessons.co.uk/",
         "source": ""
     },
     {
@@ -32,12 +40,12 @@
         "source": "https://github.com/Vavuz/Clever"
     },
     {
-        "title": "Music Teacher",
-        "imageSrc": "projects/music.jpg",
-        "description": "A website for a music teacher.",
-        "skills": ["Flask", "CSS", "Railway"],
-        "demo": "https://www.mikesmusiclessons.co.uk/",
-        "source": ""
+        "title": "Portfolio website",
+        "imageSrc": "projects/portfolio.jpg",
+        "description": "This cool looking portfolio website you are looking at.",
+        "skills": ["React", "HTML", "CSS"],
+        "demo": ".",
+        "source": "https://github.com/Vavuz/marco-vavassori"
     },
     {
         "title": "Sudoku",
@@ -70,14 +78,6 @@
         "skills": ["Python", "Docker"],
         "demo": "",
         "source": "https://github.com/Vavuz/KwikMedical"
-    },
-    {
-        "title": "Portfolio website",
-        "imageSrc": "projects/portfolio.jpg",
-        "description": "This cool looking portfolio website you are looking at.",
-        "skills": ["React", "HTML", "CSS"],
-        "demo": "/",
-        "source": "https://github.com/Vavuz/marco-vavassori"
     },
     {
         "title": "S&P500 check",
