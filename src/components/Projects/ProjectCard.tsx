@@ -1,19 +1,31 @@
 import styles from "./ProjectCard.module.css";
 
 const ProjectCard = ({ project }: any) => {
+  const skillCount = project.skills.length;
+  const idealSkillCount = 5;
+  const scaleFactor =
+    skillCount > idealSkillCount ? (idealSkillCount / skillCount) * 0.7 : 1;
+
+  const skillStyle = {
+    fontSize: `${Math.max(10, 25 * scaleFactor)}px`,
+    padding: `${Math.max(2, 5 * scaleFactor)}px ${Math.max(8, 22 * scaleFactor)}px`
+  };
+
   return (
     <div className={styles.container}>
-      <img src={"/marco-vavassori/assets/" + project.imageSrc} className={styles.image}></img>
+      <img
+        src={"/marco-vavassori/assets/" + project.imageSrc}
+        className={styles.image}
+        alt={project.title}
+      />
       <h3 className={styles.title}>{project.title}</h3>
       <p className={styles.description}>{project.description}</p>
       <ul className={styles.skills}>
-        {project.skills.map((skill: string, id: any) => {
-          return (
-            <li key={id} className={styles.skill}>
-              {skill}
-            </li>
-          );
-        })}
+        {project.skills.map((skill: string, id: any) => (
+          <li key={id} className={styles.skill} style={skillStyle}>
+            {skill}
+          </li>
+        ))}
       </ul>
       <div className={styles.links}>
         <div
