@@ -3,7 +3,7 @@
         "title": "Jawbone",
         "imageSrc": "projects/jawbone.jpg",
         "description": "Prototype of a manual dialogue-analysis tool, my Honours project.",
-        "skills": ["Angular", "Cytoscape", "GHPages"],
+        "skills": ["Angular", "Cytoscape", "JavaScript", "HTML", "CSS"],
         "demo": "https://vavuz.github.io/Jawbone/",
         "source": "https://github.com/Vavuz/Jawbone"
     },
@@ -11,17 +11,25 @@
         "title": "WishListen",
         "imageSrc": "projects/wishlisten.png",
         "description": "Mobile application to keep track of the music you want to listen to.",
-        "skills": ["Flutter", "Railway"],
+        "skills": ["Flutter", "Spotify API", "GHPages", "Render"],
         "demo": "",
         "source": "https://github.com/Vavuz/WishListen"
     },
     {
         "title": "Music Teacher",
         "imageSrc": "projects/music.jpg",
-        "description": "A website for a music teacher.",
-        "skills": ["Flask", "CSS", "Railway"],
+        "description": "A promotional website for a music teacher.",
+        "skills": ["Flask", "Render", "HTML", "CSS"],
         "demo": "https://www.mikesmusiclessons.co.uk/",
         "source": ""
+    },
+    {
+        "title": "MyTournament",
+        "imageSrc": "projects/mytournament.JPG",
+        "description": "An interactive website for organising tournaments between whatever you love.",
+        "skills": ["Angular", "Programmable Search Engine", "Google Cloud", "Gemini API", "Custom Search JSON API", "Render", "HTML", "CSS"],
+        "demo": "",
+        "source": "https://github.com/Vavuz/MyTournament"
     },
     {
         "title": "Vocabulearn",
@@ -43,7 +51,7 @@
         "title": "Portfolio website",
         "imageSrc": "projects/portfolio.jpg",
         "description": "This cool looking portfolio website you are looking at.",
-        "skills": ["React", "HTML", "CSS"],
+        "skills": ["React", "GHPages", "HTML", "CSS"],
         "demo": ".",
         "source": "https://github.com/Vavuz/marco-vavassori"
     },
@@ -51,7 +59,7 @@
         "title": "Sudoku",
         "imageSrc": "projects/sudoku.jpg",
         "description": "A console sudoku game with saving and replaying features.",
-        "skills": ["Python"],
+        "skills": ["Python", "Pickle"],
         "demo": "https://youtu.be/QCf04x0co7s",
         "source": "https://github.com/Vavuz/Sudoku"
     },
@@ -64,9 +72,17 @@
         "source": "https://github.com/yotamarker/LivinGrimoireCorePython"
     },
     {
+        "title": "RockInStock",
+        "imageSrc": "projects/rockinstock.JPG",
+        "description": "A guitar seller website with login and registration.",
+        "skills": ["C#", ".NET", "EF", "CSHTML"],
+        "demo": "",
+        "source": "https://github.com/Vavuz/RockInStock"
+    },
+    {
         "title": "Maze solver",
         "imageSrc": "projects/maze.jpg",
-        "description": "A C# program that find the shortest route in a maze using Dijkstra.",
+        "description": "A C# program that finds the shortest route in a maze using Dijkstra.",
         "skills": ["C#"],
         "demo": "",
         "source": "https://github.com/Vavuz/Maze-Solver"
