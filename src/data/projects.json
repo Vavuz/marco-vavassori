@@ -28,7 +28,7 @@
         "imageSrc": "projects/mytournament.JPG",
         "description": "An interactive website for organising tournaments between whatever you love.",
         "skills": ["Angular", "Programmable Search Engine", "Google Cloud", "Gemini API", "Custom Search JSON API", "Render", "HTML", "CSS"],
-        "demo": "",
+        "demo": "https://vavuz.github.io/MyTournament/",
         "source": "https://github.com/Vavuz/MyTournament"
     },
     {
