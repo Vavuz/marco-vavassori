@@ -1,5 +1,17 @@
 [
   {
+    "role": "Developer and Test Automayion Engineer",
+    "organisation": "ALMIS International",
+    "startDate": "May, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Maintain and expand WPF applications",
+      "Write automated tests using XUnit, NUnit and MSTest",
+      "Work with Postgres, pgAdmin and Azure DevOps"
+    ],
+    "imageSrc": "https://www.fintechscotland.com/wp-content/uploads/2021/01/Screenshot-2022-12-08-at-10.15.32.png"
+  },
+  {
     "role": "Demonstrator",
     "organisation": "Edinburgh Napier University",
     "startDate": "Sept, 2021",
@@ -20,7 +32,7 @@
       "Maintained and improved HotDocs, a document automation tool",
       "Worked on the front end using HTML, CSS, and TypeScript",
       "Used C# .NET for backend development",
-      "Worked with Jira, Postman, Entity Framework, SQL, and ChatGPT"
+      "Worked with Jira, Postman, Entity Framework and SQL"
     ],
     "imageSrc": "https://media.licdn.com/dms/image/v2/C4E0BAQGt0gkzvCgZOw/company-logo_200_200/company-logo_200_200/0/1675262009396/get_caret_logo?e=2147483647&v=beta&t=WbBH2ndG9qAIlypRwDPS9V4B2xyZDQAlwjDt4biDgIU"
   },

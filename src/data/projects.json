@@ -82,7 +82,7 @@
     {
         "title": "Maze solver",
         "imageSrc": "projects/maze.jpg",
-        "description": "A C# program that finds the shortest route in a maze using Dijkstra.",
+        "description": "A C# program that finds the shortest route in a maze using Dijkstra algorithm.",
         "skills": ["C#"],
         "demo": "",
         "source": "https://github.com/Vavuz/Maze-Solver"
