@@ -40,14 +40,6 @@
         "source": "https://github.com/Vavuz/Vocabulearn"
     },
     {
-        "title": "Clever Mobile App",
-        "imageSrc": "projects/clever.jpg",
-        "description": "A mobile app to manage your recurring expenses.",
-        "skills": ["Kotlin", "Android Studio"],
-        "demo": "",
-        "source": "https://github.com/Vavuz/Clever"
-    },
-    {
         "title": "Portfolio website",
         "imageSrc": "projects/portfolio.jpg",
         "description": "This cool looking portfolio website you are looking at.",
@@ -78,6 +70,14 @@
         "skills": ["C#", ".NET", "EF", "CSHTML"],
         "demo": "",
         "source": "https://github.com/Vavuz/RockInStock"
+    },
+    {
+        "title": "Clever Mobile App",
+        "imageSrc": "projects/clever.jpg",
+        "description": "A mobile app to manage your recurring expenses.",
+        "skills": ["Kotlin", "Android Studio"],
+        "demo": "",
+        "source": "https://github.com/Vavuz/Clever"
     },
     {
         "title": "Maze solver",

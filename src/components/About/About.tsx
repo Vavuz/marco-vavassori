@@ -11,7 +11,9 @@ const About = () => {
             <img src="https://cdn-icons-png.flaticon.com/512/6674/6674591.png" className={styles.talentImage}></img>
             <div className={styles.aboutItemText}>
               <h3>Full Stack Developer</h3>
-              <p>I'm a full-stack developer skilled in <b>Angular</b> and <b>React</b> for front-end interfaces and <b>Flask</b> and <b>Node.js</b> for back-end services, with some familiarity in <b>C# .NET</b> for scalable solutions.</p>
+              <p>
+                I'm a full-stack developer skilled in <b>Angular</b>, <b>WPF</b>, and back-end services using <b>Flask</b> and <b>Node.js</b>, proficient in <b>Python</b> for small software solutions and <b>Dart</b> for app development, and familiar with <b>React</b> and <b>ASP.NET Core</b> for web development.
+              </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
@@ -22,7 +24,7 @@ const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="https://cdn0.iconfinder.com/data/icons/pennant-flags/64/pennant_flags_part_4-60-512.png" className={styles.talentImage}></img>
+            <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ee-1f1f9.png" className={styles.talentImage}></img>
             <div className={styles.aboutItemText}>
               <h3>Bilingual</h3>
               <p>If you are fancying a conversation in <b>Italian</b> I can definitely help you with that, before coming to the UK in 2018 that's where I was.</p>

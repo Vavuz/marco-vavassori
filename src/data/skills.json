@@ -21,7 +21,11 @@
   },
   {
     "title": "Angular",
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
+    "imageSrc": "https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif"
+  },
+  {
+    "title": ".NET",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"
   },
   {
     "title": "React",
@@ -34,9 +38,5 @@
   {
     "title": "Flutter",
     "imageSrc": "https://img.icons8.com/color/512/flutter.png"
-  },
-  {
-    "title": ".NET",
-    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"
   }
 ]

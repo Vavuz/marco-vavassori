@@ -1,13 +1,14 @@
 [
   {
-    "role": "Developer and Test Automayion Engineer",
+    "role": "Developer and Test Automation Engineer",
     "organisation": "ALMIS International",
     "startDate": "May, 2025",
     "endDate": "Present",
     "experiences": [
-      "Maintain and expand WPF applications",
+      "Maintain and expand WPF applications with .NET 8",
       "Write automated tests using XUnit, NUnit and MSTest",
-      "Work with Postgres, pgAdmin and Azure DevOps"
+      "Work with Postgres, pgAdmin and Azure DevOps",
+      "Hands-on experience integrating software solutions with regulatory reporting systems"
     ],
     "imageSrc": "https://www.fintechscotland.com/wp-content/uploads/2021/01/Screenshot-2022-12-08-at-10.15.32.png"
   },
@@ -17,9 +18,7 @@
     "startDate": "Sept, 2021",
     "endDate": "Dec, 2024",
     "experiences": [
-      "Supported students in the 'Software Development' module",
-      "Assisted with 'Mathematics for Software Engineering'",
-      "Helped students with 'Data Analytics'"
+      "Supported students in the 'Software Development', 'Mathematics for Software Engineering' and 'Data Analytics' modules"
     ],
     "imageSrc": "https://seekvectors.com/files/download/Edinburgh%20Napier%20University-04.png"
   },
@@ -30,8 +29,7 @@
     "endDate": "Aug, 2023",
     "experiences": [
       "Maintained and improved HotDocs, a document automation tool",
-      "Worked on the front end using HTML, CSS, and TypeScript",
-      "Used C# .NET for backend development",
+      "HTML, CSS, and TypeScript for frontend development and C# ASP.NET Core for backend development",
       "Worked with Jira, Postman, Entity Framework and SQL"
     ],
     "imageSrc": "https://media.licdn.com/dms/image/v2/C4E0BAQGt0gkzvCgZOw/company-logo_200_200/company-logo_200_200/0/1675262009396/get_caret_logo?e=2147483647&v=beta&t=WbBH2ndG9qAIlypRwDPS9V4B2xyZDQAlwjDt4biDgIU"
@@ -42,9 +40,9 @@
     "startDate": "Nov, 2021",
     "endDate": "Jan, 2023",
     "experiences": [
-      "Solved programming problems in Python, C# and Java",
+      "Satisfy clients' needs using Python, C# and Java",
       "Converted a large project from Java to Python"
     ],
-    "imageSrc": "https://seeklogo.com/images/F/fiverr-logo-2A4DB517AE-seeklogo.com.png"
+    "imageSrc": "https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png"
   }
 ]
