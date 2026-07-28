@@ -1,11 +1,11 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "/marco-vavassori/assets/skills/html5.svg"
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/500px-HTML5_logo_and_wordmark.svg.png"
   },
   {
     "title": "CSS",
-    "imageSrc": "/marco-vavassori/assets/skills/css3.svg"
+    "imageSrc": "https://images.seeklogo.com/logo-png/18/2/css3-logo-png_seeklogo-186678.png"
   },
   {
     "title": "Cytoscape",
@@ -17,7 +17,7 @@
   },
   {
     "title": "TypeScript",
-    "imageSrc": "/marco-vavassori/assets/skills/typescript.svg"
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/3840px-Typescript_logo_2020.svg.png"
   },
   {
     "title": "Angular",
@@ -25,11 +25,11 @@
   },
   {
     "title": ".NET",
-    "imageSrc": "/marco-vavassori/assets/skills/dotnet.svg"
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png"
   },
   {
     "title": "React",
-    "imageSrc": "/marco-vavassori/assets/react.svg"
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/960px-React-icon.svg.png"
   },
   {
     "title": "Flask",
