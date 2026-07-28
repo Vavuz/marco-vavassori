@@ -3,7 +3,7 @@
 .container {
     display: flex;
     flex-direction: column;
-    border-radius: 10px;
+    border-radius: 16px;
     background: linear-gradient(
         180deg,
         var(--color-gradient-start) 0%,
@@ -11,8 +11,8 @@
     );
     box-shadow: 0 15px 15px 0 var(--color-shadow);
     padding: 18px 25px;
-    max-width: 450px;
-    height: 620px;
+    width: min(100%, 450px);
+    min-height: 620px;
     transition: background-position 0.4s ease-in-out, transform 0.3s ease-in-out;
 }
 
@@ -32,7 +32,7 @@
 
 .description {
     margin-top: 5px;
-    font-size: 25px;
+    font-size: clamp(18px, 2vw, 25px);
     font-weight: 400;
     flex-grow: 1;
 }
@@ -112,7 +112,7 @@
 
 @media screen and (max-width: 830px) {
     .container {
-        height: 500px;
+        min-height: 500px;
         width: 100%;
     }
 

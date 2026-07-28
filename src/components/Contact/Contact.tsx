@@ -30,11 +30,13 @@ const Contact = () => {
           <a
             href="https://www.instagram.com/_marcovavassori_/?hl=it"
             target="_blank"
+            rel="noreferrer"
           >
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
+              src="/marco-vavassori/assets/social/instagram.svg"
+              alt="Instagram"
               className={styles.image}
-            ></img>
+            />
           </a>
           <a
             href="https://discordapp.com/users/294586068802600973"

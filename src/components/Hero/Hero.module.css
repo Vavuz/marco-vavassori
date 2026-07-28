@@ -5,10 +5,12 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 32px;
     margin-top: 50px;
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
+    max-width: 1400px;
 }
 
 .content {
@@ -17,10 +19,11 @@
     align-items: flex-start;
     color: var(--color-text);
     z-index: 1;
+    flex: 1;
 }
 
 .title {
-    font-size: 70px;
+    font-size: clamp(42px, 6vw, 70px);
     font-weight: 900;
     margin-bottom: 30px;
     font-family: var(--font-roboto);
@@ -30,9 +33,10 @@
 }
 
 .description {
-    font-size: 30px;
+    font-size: clamp(20px, 2.5vw, 30px);
     font-family: var(--font-roboto);
     margin-bottom: 50px;
+    max-width: 640px;
 }
 
 .contactBtn {
@@ -114,18 +118,22 @@
 @media screen and (max-width: 830px) {
     .container {
         flex-direction: column-reverse;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 
     .content {
         align-items: center;
+        text-align: center;
     }
 
     .heroImg {
-        padding-bottom: 50px;
+        padding-bottom: 32px;
+        width: min(80%, 360px);
     }
 
     .title {
-        font-size: 50px;
+        font-size: clamp(36px, 8vw, 50px);
     }
 
     .description {
