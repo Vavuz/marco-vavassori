@@ -5,10 +5,10 @@
     "startDate": "May, 2025",
     "endDate": "Present",
     "experiences": [
-      "Maintain and expand WPF applications with .NET 8",
-      "Write automated tests using XUnit, NUnit and MSTest",
-      "Work with Postgres, pgAdmin and Azure DevOps",
-      "Hands-on experience integrating software solutions with regulatory reporting systems"
+      "Maintain and extend enterprise WPF desktop applications written in C#/.NET",
+      "Develop automated test suites using xUnit, NUnit and MSTest to improve reliability and regression coverage",
+      "Build REST APIs with Azure Functions and integrate solutions through Microsoft Entra ID SSO",
+      "Work with PostgreSQL and Azure DevOps pipelines in a fast-paced delivery environment"
     ],
     "imageSrc": "https://www.fintechscotland.com/wp-content/uploads/2021/01/Screenshot-2022-12-08-at-10.15.32.png"
   },
@@ -18,7 +18,7 @@
     "startDate": "Sept, 2021",
     "endDate": "Dec, 2024",
     "experiences": [
-      "Supported students in the 'Software Development', 'Mathematics for Software Engineering' and 'Data Analytics' modules"
+      "Supported students in Software Development, Mathematics for Software Engineering and Data Analytics modules"
     ],
     "imageSrc": "https://seekvectors.com/files/download/Edinburgh%20Napier%20University-04.png"
   },
@@ -28,9 +28,9 @@
     "startDate": "Aug, 2022",
     "endDate": "Aug, 2023",
     "experiences": [
-      "Maintained and improved HotDocs, a document automation tool",
-      "HTML, CSS, and TypeScript for frontend development and C# ASP.NET Core for backend development",
-      "Worked with Jira, Postman, Entity Framework and SQL"
+      "Contributed to HotDocs, an enterprise document automation platform",
+      "Developed frontend features using HTML, CSS and TypeScript alongside backend work in C#/.NET",
+      "Worked with REST APIs, Entity Framework, SQL, Docker, Selenium, Postman, Jira and Git in Agile teams"
     ],
     "imageSrc": "https://media.licdn.com/dms/image/v2/C4E0BAQGt0gkzvCgZOw/company-logo_200_200/company-logo_200_200/0/1675262009396/get_caret_logo?e=2147483647&v=beta&t=WbBH2ndG9qAIlypRwDPS9V4B2xyZDQAlwjDt4biDgIU"
   },
@@ -40,8 +40,8 @@
     "startDate": "Nov, 2021",
     "endDate": "Jan, 2023",
     "experiences": [
-      "Satisfy clients' needs using Python, C# and Java",
-      "Converted a large project from Java to Python"
+      "Developed small software projects using Python, C# and Java",
+      "Delivered client-focused solutions across multiple short-term engagements"
     ],
     "imageSrc": "https://logos-world.net/wp-content/uploads/2020/12/Fiverr-Logo.png"
   }
